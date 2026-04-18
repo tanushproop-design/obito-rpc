@@ -16,16 +16,16 @@ module.exports = [
         status: "dnd",
         
         // IMPORTANT: Use Imgur/Tenor link here
-        largeImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1492939589726245115/From_KlickPin_CF_Hey_Video_in_2026___Inspo_Hey_-_Pin-54535845482023158.gif?ex=69de7957&is=69dd27d7&hm=75192077c2778fb69091c7311485928ab719ade7b36632254fb494df6f2aac2a&",
+        largeImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1493028442873135204/From_KlickPin_CF_Pin_em_photo_ideas_-_Pin-53761789299357777_1.gif?ex=69e4bad7&is=69e36957&hm=01b6b3c3e862838e9262c6fbe8b0eee63074fc8702846c9cedc08e7b56e48412&",
         largeImageText: "𝙏𝙖𝙣𝙪𝙨𝙝 𝙭 𝙀𝙨𝙥𝙖𝙙𝙖",
         
-        smallImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1492939589726245115/From_KlickPin_CF_Hey_Video_in_2026___Inspo_Hey_-_Pin-54535845482023158.gif?ex=69de7957&is=69dd27d7&hm=75192077c2778fb69091c7311485928ab719ade7b36632254fb494df6f2aac2a&",
+        smallImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1493028442873135204/From_KlickPin_CF_Pin_em_photo_ideas_-_Pin-53761789299357777_1.gif?ex=69e4bad7&is=69e36957&hm=01b6b3c3e862838e9262c6fbe8b0eee63074fc8702846c9cedc08e7b56e48412&",
         smallImageText: "𝙁𝙪𝙘𝙠 𝙮𝙤𝙪",
         
         button1Name: "𝙀𝙨𝙥𝙖𝙙𝙖",
         button1URL: "https://espada.work.gd/",
         button2Name: "𝙖𝙗𝙤𝙪𝙩 𝙢𝙚",
-        button2URL: "https://guns.lol/fn.exe",
+        button2URL: "https://guns.lol/tanush.ly",
     },
 
     // --------------------------------------------------------
@@ -40,10 +40,10 @@ module.exports = [
         timeHours: 500000,
         
         // Alag Image yahan daalein Imgur se
-        largeImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1492941834325069925/From_KlickPin_CF_savefollow_ig___quyethgg_trong_2026.gif?ex=69de7b6e&is=69dd29ee&hm=24ef57381bf37f4a3e5a69d3c8f47a5e526d385bcc8ede0427060d221001649e&",
+        largeImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1492941834325069925/From_KlickPin_CF_savefollow_ig___quyethgg_trong_2026.gif?ex=69e46a2e&is=69e318ae&hm=1120f43faab932e8df6a683467793f21f83b59342edbd9d3e6958e31e4715ba8&",
         largeImageText: "𝙁𝙪𝙘𝙠 𝙮𝙤𝙪",
         
-        smallImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1492941834325069925/From_KlickPin_CF_savefollow_ig___quyethgg_trong_2026.gif?ex=69de7b6e&is=69dd29ee&hm=24ef57381bf37f4a3e5a69d3c8f47a5e526d385bcc8ede0427060d221001649e&",
+        smallImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1492941834325069925/From_KlickPin_CF_savefollow_ig___quyethgg_trong_2026.gif?ex=69e46a2e&is=69e318ae&hm=1120f43faab932e8df6a683467793f21f83b59342edbd9d3e6958e31e4715ba8&",
         smallImageText: "𝙁𝙪𝙘𝙠 𝙮𝙤𝙪",
         
         button1Name: "nexafyrez web",
@@ -63,10 +63,10 @@ module.exports = [
         timeHours: 500000,
         
         // Image URL yahan daalein
-        largeImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1493028442873135204/From_KlickPin_CF_Pin_em_photo_ideas_-_Pin-53761789299357777_1.gif?ex=69decc17&is=69dd7a97&hm=ddbcf3789f361e915af8ef181550bd5263c5fd3311860744ac4e912110c46db4&",
+        largeImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1492939589726245115/From_KlickPin_CF_Hey_Video_in_2026___Inspo_Hey_-_Pin-54535845482023158.gif?ex=69e46817&is=69e31697&hm=f80af57148c16c96a1b7ea70f32a0b9febc25c8298485dbfcef28f4e5de8c1dc&",
         largeImageText: "𝙁𝙪𝙘𝙠 𝙮𝙤𝙪",
         
-        smallImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1493028442873135204/From_KlickPin_CF_Pin_em_photo_ideas_-_Pin-53761789299357777_1.gif?ex=69decc17&is=69dd7a97&hm=ddbcf3789f361e915af8ef181550bd5263c5fd3311860744ac4e912110c46db4&",
+        smallImage: "https://cdn.discordapp.com/attachments/1477725989718065233/1492939589726245115/From_KlickPin_CF_Hey_Video_in_2026___Inspo_Hey_-_Pin-54535845482023158.gif?ex=69e46817&is=69e31697&hm=f80af57148c16c96a1b7ea70f32a0b9febc25c8298485dbfcef28f4e5de8c1dc&",
         smallImageText: "𝙁𝙪𝙘𝙠 𝙮𝙤𝙪",
         
         button1Name: "Listen Along",
